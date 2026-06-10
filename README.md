@@ -2,7 +2,7 @@
 
 My Terraform project.
 
-## What I learned
+## What I practiced 
 
 - Installing Terraform
 - Terraform init
